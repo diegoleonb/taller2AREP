@@ -1,9 +1,7 @@
-package edu.escuelaing;
+package edu.escuelaing.arem;
 
 import java.net.URL;
 import java.util.Scanner;
-
-import edu.escuelaing.arem.URLGetter;
 
 public class URLSearch{
 
